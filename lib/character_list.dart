@@ -1,0 +1,18 @@
+const List<Map<String, dynamic>> characterList = [
+  {'name': 'ツクヨミ', 'image': 'assets/tukuyomi.png', 'rarity': 'SS'},
+  {'name': 'アステリア', 'image': 'assets/asuteria.png', 'rarity': 'S'},
+  {'name': 'リュミナール', 'image': 'assets/ryumina-ru.png', 'rarity': 'S'},
+  {'name': 'クロノ', 'image': 'assets/kuronosu.png', 'rarity': 'S'},
+  {'name': 'エレボス', 'image': 'assets/erebosu.png', 'rarity': 'S'},
+  {'name': 'アルカナ', 'image': 'assets/arukana.png', 'rarity': 'S'},
+  {'name': 'ねこまる', 'image': 'assets/nekomaru.png', 'rarity': 'A'},
+  {'name': 'ポコん', 'image': 'pokon.png', 'rarity': 'A'},
+  {'name': 'ムーニャ', 'image': 'assets/mu-nya2.png', 'rarity': 'A'},
+  {'name': 'ミルたん', 'image': 'assets/mirutan.png', 'rarity': 'A'},
+  {'name': 'フラン犬', 'image': 'assets/huranken.png', 'rarity': 'A'},
+  {'name': 'ハリまる', 'image': 'assets/harimal.png', 'rarity': 'A'},
+  {'name': 'にゃモン', 'image': 'assets/nyamon.jpeg', 'rarity': 'B'},
+  {'name': 'モリン', 'image': 'assets/morin.png', 'rarity': 'B'},
+  {'name': 'オドロック', 'image': 'assets/odorock.png', 'rarity': 'B'},
+  {'name': 'なきもち', 'image': 'assets/nakimoti.png', 'rarity': 'B'},
+];

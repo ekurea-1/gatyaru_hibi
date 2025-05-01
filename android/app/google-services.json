@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "882416610599",
+    "project_id": "gatya-hibi",
+    "storage_bucket": "gatya-hibi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882416610599:android:6a31f539496f6e74d4cd02",
+        "android_client_info": {
+          "package_name": "com.example.gatya_hibi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC004KjnktmDlEcwXvlcWkeYyJfwiqBc0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
